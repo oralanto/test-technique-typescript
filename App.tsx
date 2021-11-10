@@ -17,7 +17,7 @@ export default function App() {
   const [randomImage, setRandomImage] = useState("");
   const [cardsItems, setCardsItems] = useState([
     {
-      text: "Hello World",
+      text: "Hello Zetsy ;)",
       image: "https://coffee.alexflipnote.dev/xCup2pLyRow_coffee.png",
     },
   ]);
